@@ -1,2 +1,2 @@
 # tianshu
-monorepo project
+a monorepo project
